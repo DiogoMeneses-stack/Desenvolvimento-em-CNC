@@ -10,6 +10,7 @@ Dimensões do Material bruto, serão sinalizadas e quais plataformas devem ser f
 <div style="{display: inline;}">
 <a href="https://join.slack.com/t/novoworkspace-mzm5500/shared_invite/zt-2dh41mnbo-D8jdv6XrwJqF8DMPsKCscQ"><img align="center" alt="Slack-icon" height="30" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 <img align="center" alt="VS-icon" height="30" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <a href="https://github.com/DiogoMeneses-stack/Desenvolvimento-em-CNC.git"><img align="center" alt="Slack-icon" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
   <hr>
 <h3>SSCNC</h3>
