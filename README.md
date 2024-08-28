@@ -1,11 +1,8 @@
 <h1>Instruções</h1>
 <hr><br>
 
-<p>Este Repositório irá conter peças programadas em G-code, para máquinas como torno romi mach 9, fresa romi milling. O objetivo desse repositório é facilitar a compreenssão de programação CNC e suas funcionalidades.
-
-Neste repositório cada peça conterá uma instrução de como deve ser feita. 
-Quais ferramentas utilizar.
-Dimensões do Material bruto, serão sinalizadas e quais plataformas devem ser fitas ou recomendadas a rodas o código.</p>
+<p>Este Repositório irá conter peças programadas em G-code, para centros de usinagens e tornos, máquinas Siemens, Fanuc e Mitsubishi. O objetivo desse repositório é facilitar a compreenssão de programação CNC e suas funcionalidades.
+</p>
 <hr>
 <div style="{display: inline;}">
 <a href="https://join.slack.com/t/novoworkspace-mzm5500/shared_invite/zt-2dh41mnbo-D8jdv6XrwJqF8DMPsKCscQ"><img align="center" alt="Slack-icon" height="30" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
